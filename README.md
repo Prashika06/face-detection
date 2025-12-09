@@ -1,1 +1,1 @@
-# face_detection
+# haar_cascade_classifier
